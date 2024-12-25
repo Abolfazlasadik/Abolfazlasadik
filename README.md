@@ -1,7 +1,7 @@
 # Abolfazl Asadik  
 
 ## Welcome to My GitHub Profile!  
-Hello, I'm Abolfazl Asadik, a sophomore Computer Engineering student passionate about technology and innovation. I am currently focused on learning the prerequisites and tools for entering the field of Artificial Intelligence. 
+Hello, I'm Abolfazl Asadi kheirabad olia, a sophomore Computer Engineering student passionate about technology and innovation. I am currently focused on learning the prerequisites and tools for entering the field of Artificial Intelligence. 
 
 ---
 
