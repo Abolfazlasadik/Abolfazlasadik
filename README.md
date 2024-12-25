@@ -27,14 +27,3 @@ Hello, I'm Abolfazl Asadi kheirabad olia, a sophomore Computer Engineering stude
 Feel free to reach out if you'd like to collaborate or discuss exciting projects:  
 - **Telegram**: [Dev_Asadi](https://t.me/Dev_Asadi)  
 
----
-
-## Quote  
-
-> _"Learning never exhausts the mind."_ – Leonardo da Vinci  
-
----
-
-Let’s create, innovate, and grow together! 🚀  
- 
-
